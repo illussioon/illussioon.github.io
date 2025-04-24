@@ -1,0 +1,116 @@
+{
+    "title": "illussion Graphics",
+    "description": "Transform your GTA V with stunning graphics mods, optimization tools, and seamless installation.",
+    "download_button": "DOWNLOAD FREE",
+    "features_title": "Features",
+    "stats": {
+        "downloads": "Downloads",
+        "rating": "User Rating",
+        "mods": "Mods Available",
+        "users": "Users"
+    },
+    "mod_list": "Mod List"
+    "mod_list_text": "Huge collection of graphic mods for GTA 5"
+    "bloggers_title": "WORKING WITH ILLUSSION GRAPHIC",
+    "compatibility": "Works with RAGE MP, alt:V and GTA V singleplayer",
+    "nav": {
+        "blog": "Blog",
+        "auth": "Sign In",
+        "language": "Language",
+        "library": "Library",
+        "media_panel": "Media Panel",
+        "profile": "Profile",
+        "logout": "Log Out"
+    },
+    "footer": {
+        "copyright": "illussion Graphic is not affiliated with or endorsed by Rockstar North, Take-Two Interactive or other rights holders.\nAny trademarks used belong to their respective owners.\n© 2025 illussion World"
+    },
+    "features": [{
+            "title": "Enhanced Graphics",
+            "description": "Experience GTA V like never before with stunning visual improvements"
+        },
+        {
+            "title": "Performance Optimization",
+            "description": "Boost FPS and eliminate lag with our optimization tools"
+        },
+        {
+            "title": "Easy Installation",
+            "description": "One-click installation for all mods and graphics enhancements"
+        }
+    ],
+    "bloggers": [{
+            "subscribers": "25K subscribers"
+        },
+        {
+            "subscribers": "4K subscribers"
+        },
+        {
+            "subscribers": "5K subscribers"
+        }
+    ],
+    "auth": {
+        "title": "Authorize with Discord",
+        "description": "This is required to access your Network Graphics account.",
+        "security": "We use Discord ID as a secure authentication method with enhanced protection against hacking.",
+        "button": "Authorize with Discord"
+    },
+    "profile": {
+        "experience": "Experience",
+        "balance": "Balance",
+        "discord_id": "Discord ID",
+        "registration_date": "Registration Date",
+        "workshop_participant": "Workshop Participant"
+    },
+    "library": {
+        "title": "Install mods from the library in illussion Graphics",
+        "description": "illussion Graphics is an application with automatic mod installation for GTA 5 RP. Compatible with RAGE MP and alt:V platforms, as well as GTA V singleplayer.",
+        "learn_more": "Learn More",
+        "search_placeholder": "Search...",
+        "categories": {
+            "main": "Main",
+            "effects": "Effects",
+            "hit_effects": "Hit Effects",
+            "shot_effects": "Shot Effects",
+            "weapon_skins": "Weapon Skins",
+            "weapons": {
+                "revolver": "Revolver",
+                "revolver_mk2": "Revolver MK2",
+                "marksman_rifle_mk2": "Marksman Rifle MK2",
+                "heavy_sniper_mk1": "Heavy Sniper",
+                "heavy_sniper_mk2": "Heavy Sniper MK2",
+                "heavy_shotgun": "Heavy Shotgun",
+                "machine_pistol": "Machine Pistol",
+                "carbine_rifle_mk1": "Carbine Rifle",
+                "carbine_rifle_mk2": "Carbine Rifle MK2",
+                "assault_rifle_mk1": "AK",
+                "assault_rifle_mk2": "AK MK2"
+            }
+        },
+        "tags": "Tags",
+        "reset_filters": "Reset Filters",
+        "library": "Library",
+        "mods_not_found": "No mods found",
+        "mod_blocked": "Mod is blocked",
+        "unlock_date": "Unlock date:"
+    },
+    "mod": {
+        "information": "Information",
+        "developer": "Developer",
+        "category": "Category",
+        "size": "Size",
+        "not_specified": "Not specified",
+        "open_button": "Open"
+    },
+    "blog": {
+        "title": "Blog - illussion Graphics"
+    },
+    "index": {
+        "meta_title": "illussion Graphics, illussion Redux — mods, graphics, skins, scripts and optimization for GTA 5 RP in one application",
+        "our_mods": "Our Mods",
+        "mods_collection": "Huge collection of graphics mods for GTA 5",
+        "learn_more": "Learn More"
+    },
+    "errors": {
+        "not_found": "Not found"
+    }
+}
