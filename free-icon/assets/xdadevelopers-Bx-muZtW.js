@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eXDA%20Developers%3c/title%3e%3cpath%20d='M13.84%203.052V0h7.843v17.583H13.84v-3.024h4.591V3.052zM5.569%2014.53V3.024h4.592V0H2.318v17.583H6.98L10.16%2024v-9.483z'/%3e%3c/svg%3e";export{e as default};

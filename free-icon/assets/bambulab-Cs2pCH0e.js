@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eBambu%20Lab%3c/title%3e%3cpath%20d='M12.662%2024V8.959l8.535%203.369V24zm-9.859-.003v-7.521l8.534-3.371-.001%2010.892zM2.803%200h8.533l.001%2011.672-8.534%203.369zm9.859%200h8.535v10.892l-8.535-3.371z'/%3e%3c/svg%3e";export{e as default};

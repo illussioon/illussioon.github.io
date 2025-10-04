@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eKibana%3c/title%3e%3cpath%20d='M2.625%200v21.591L21.375%200zm10.864%2012.47L3.477%2024h17.522a18.755%2018.755%200%200%200-7.51-11.53z'/%3e%3c/svg%3e";export{e as default};

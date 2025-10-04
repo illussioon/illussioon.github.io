@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eCode%20Climate%3c/title%3e%3cpath%20d='M16.125%205.272l-4.511%204.475%202.684%202.659%201.827-1.813%205.19%205.145L24%2013.079zM8.13%208.265L0%2016.066l2.772%202.662%205.357-5.145%205.357%205.145%202.772-2.662z'/%3e%3c/svg%3e";export{e as default};

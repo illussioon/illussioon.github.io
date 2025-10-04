@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eBetfair%3c/title%3e%3cpath%20d='M20.218%203.14h-7.083v3.6H9.352l7.359%208.582L24%206.67h-3.782zM0%2017.26h3.782v3.6h7.083v-3.6h3.783l-7.29-8.583z'/%3e%3c/svg%3e";export{e as default};

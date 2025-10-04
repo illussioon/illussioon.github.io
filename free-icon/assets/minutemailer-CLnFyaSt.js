@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eMinutemailer%3c/title%3e%3cpath%20d='M17.187%2019.181L24%204.755%200%2012.386l9.196%201.963.043%204.896%202.759-2.617-2.147-2.076%207.336%204.63z'/%3e%3c/svg%3e";export{e as default};

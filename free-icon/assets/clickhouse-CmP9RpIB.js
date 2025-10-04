@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eClickHouse%3c/title%3e%3cpath%20d='M21.333%2010H24v4h-2.667ZM16%201.335h2.667v21.33H16Zm-5.333%200h2.666v21.33h-2.666ZM0%2022.665V1.335h2.667v21.33zm5.333-21.33H8v21.33H5.333Z'/%3e%3c/svg%3e";export{e as default};

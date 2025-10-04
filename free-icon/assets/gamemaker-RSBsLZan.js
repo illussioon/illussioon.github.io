@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eGamemaker%3c/title%3e%3cpath%20d='M.012%2011.994%2012.006%200l11.982%2012.006h-6.831l-5.163-5.151-5.151%205.151%205.163%205.151v-5.151h5.151v6.903L12.006%2024z'/%3e%3c/svg%3e";export{e as default};

@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eTerraform%3c/title%3e%3cpath%20d='M1.44%200v7.575l6.561%203.79V3.787zm21.12%204.227l-6.561%203.791v7.574l6.56-3.787zM8.72%204.23v7.575l6.561%203.787V8.018zm0%208.405v7.575L15.28%2024v-7.578z'/%3e%3c/svg%3e";export{e as default};

@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3ePyUp%3c/title%3e%3cpath%20d='M12%200L1.608%206v12l3.984%202.3v-12L12%204.6l6.408%203.7v7.4L12%2019.4l-2.95-1.705v4.602L12%2024l10.392-6V6zm0%208.593l-2.95%201.703v3.408L12%2015.407l2.95-1.703v-3.408z'/%3e%3c/svg%3e";export{e as default};

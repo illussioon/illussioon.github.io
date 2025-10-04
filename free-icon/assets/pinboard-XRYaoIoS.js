@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3ePinboard%3c/title%3e%3cpath%20d='M13.352%2014.585l-4.509%204.614.72-4.062L3.428%207.57%200%207.753%207.58%200v2.953l7.214%206.646%204.513-1.105-4.689%204.982L24%2024l-10.648-9.415z'/%3e%3c/svg%3e";export{e as default};

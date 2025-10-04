@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eViblo%3c/title%3e%3cpath%20d='M10.569%2019.68h2.904L21.621.018%2018.705%200l-4.428%2010.668H9.705L5.295%200H2.379l8.19%2019.68zm-7.02%201.854h16.908V24H3.549v-2.466z'/%3e%3c/svg%3e";export{e as default};

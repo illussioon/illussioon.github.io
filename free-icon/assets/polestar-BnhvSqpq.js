@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3ePolestar%3c/title%3e%3cpath%20d='m12.549%200-.457.555v11.191h11.19l.554-.457-9.4-1.89zM.719%2012.26l-.555.457L9.563%2014.6l1.886%209.4.457-.555V12.26Z'/%3e%3c/svg%3e";export{e as default};

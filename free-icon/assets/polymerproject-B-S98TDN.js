@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3ePolymer%20Project%3c/title%3e%3cpath%20d='M14.4%203.686L7.2%2016.16%204.8%2012l4.8-8.314H4.8L0%2012l2.4%204.159%202.4%204.155h4.8l7.2-12.469L19.2%2012l-4.8%208.314h4.8l2.4-4.155L24%2012l-2.4-4.155-2.4-4.159Z'/%3e%3c/svg%3e";export{e as default};

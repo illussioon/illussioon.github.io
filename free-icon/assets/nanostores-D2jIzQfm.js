@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eNano%20Stores%3c/title%3e%3cpath%20d='M13.708%2024%20.6%2014.822l7.679-2.995%2011.235%207.867L13.708%2024ZM10.292%200%2023.4%209.178l-7.679%202.995L4.486%204.306%2010.292%200Z'/%3e%3c/svg%3e";export{e as default};

@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eFRITZ!%3c/title%3e%3cpath%20d='M13.495%2019.183%2017.37%2024l4.817-3.903-3.875-4.817zM23.571.692%2016.097.111l-.914%2015.003%206.118.221zM6.962%205.564v4.097l5.62-.055v5.37H7.016v8.055H.43V.277L13.024%200V5.51z'/%3e%3c/svg%3e";export{e as default};

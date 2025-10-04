@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eRazorpay%3c/title%3e%3cpath%20d='M22.436%200l-11.91%207.773-1.174%204.276%206.625-4.297L11.65%2024h4.391l6.395-24zM14.26%2010.098L3.389%2017.166%201.564%2024h9.008l3.688-13.902Z'/%3e%3c/svg%3e";export{e as default};

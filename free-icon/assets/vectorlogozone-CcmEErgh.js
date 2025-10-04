@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eVector%20Logo%20Zone%3c/title%3e%3cpath%20d='M19.458%200l-5.311%202.024%201.989.534-4.847%2016.085-4.867-16.25H1.48L8.974%2024h4.645l7.043-20.226%201.858.499Z'/%3e%3c/svg%3e";export{e as default};

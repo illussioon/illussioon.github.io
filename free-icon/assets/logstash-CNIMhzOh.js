@@ -1,0 +1,1 @@
+const t="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eLogstash%3c/title%3e%3cpath%20d='M13.745%2024h8.291v-9.164h-8.29zm-2.618%200h.437v-9.164h-9.6A9.163%209.163%200%200011.127%2024m.438-9.164h-9.6V0h.873a8.727%208.727%200%20018.727%208.727z'/%3e%3c/svg%3e";export{t as default};

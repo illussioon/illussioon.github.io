@@ -1,0 +1,1 @@
+const t="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eIstio%3c/title%3e%3cpath%20d='M4%2021%2020%2021%2010%2024zM4%2020%2010%2019%2010%208zM11%2019%2020%2020%2011%200z'/%3e%3c/svg%3e";export{t as default};

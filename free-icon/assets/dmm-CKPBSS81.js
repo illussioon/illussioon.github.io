@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eDMM%3c/title%3e%3cpath%20d='M9.525.46H0v23.08h11.545C17.284%2023.54%2024%2020.916%2024%2012S16.026.46%209.525.46zm.646%2015.073V8.34c1.746%200%204.4.079%204.4%203.582%200%203.58-2.553%203.611-4.4%203.611z'/%3e%3c/svg%3e";export{e as default};

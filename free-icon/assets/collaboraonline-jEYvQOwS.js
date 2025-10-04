@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eCollabora%20Online%3c/title%3e%3cpath%20d='M8.852%200%203.55%205.303%2010.247%2012%203.55%2018.698%208.852%2024l12-12zM3.147%205.706v12.588L9.442%2012z'/%3e%3c/svg%3e";export{e as default};

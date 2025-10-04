@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eAPM%20Terminals%3c/title%3e%3cpath%20d='M23.8%202.95%200%2016.55v4.5L24%209.32V2.95zm.2%2010.1-8.87%204.21v3.68l8.87-3.4Z'/%3e%3c/svg%3e";export{e as default};

@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3ePortSwigger%3c/title%3e%3cpath%20d='M0%200v24h10.718v-3.805l3.496-4.272h-3.496v-5.205H4.427l6.291-7.767V0Zm13.282%200v3.884L9.786%208.155h3.496v5.205h6.291l-6.291%207.767V24H24V0Z'/%3e%3c/svg%3e";export{e as default};

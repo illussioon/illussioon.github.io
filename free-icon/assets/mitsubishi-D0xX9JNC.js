@@ -1,0 +1,1 @@
+const t="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eMitsubishi%3c/title%3e%3cpath%20d='M8%2022.38H0l4-6.92h8zm8%200h8l-4-6.92h-8zm0-13.84l-4-6.92-4%206.92%204%206.92Z'/%3e%3c/svg%3e";export{t as default};

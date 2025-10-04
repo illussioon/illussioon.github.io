@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eLighthouse%3c/title%3e%3cpath%20d='M12%200l5.5%203.5v5H20v3h-2.25l2%2012.5H4.25l2-12.5H4v-3h2.5V3.53zm2.94%2013.25l-6.22%202.26L8%2020.04l7.5-2.75zM12%203.56L9.5%205.17V8.5h5V5.15Z'/%3e%3c/svg%3e";export{e as default};

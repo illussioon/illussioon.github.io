@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eBoardGameGeek%3c/title%3e%3cpath%20d='m19.7%204.44-2.38.64L19.65%200%204.53%205.56l.83%206.67-1.4%201.34L8.12%2024l8.85-3.26%203.07-7.22-1.32-1.27.98-7.81Z'/%3e%3c/svg%3e";export{e as default};

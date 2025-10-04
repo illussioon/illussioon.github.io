@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eBookmeter%3c/title%3e%3cpath%20d='M.678%2014.262h6.089V24H.678v-9.738zm8.215%209.717h6.089V7.11H8.893v16.869zM17.234%200v24h6.089V0h-6.089z'/%3e%3c/svg%3e";export{e as default};

@@ -1,0 +1,1 @@
+const t="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eSubstack%3c/title%3e%3cpath%20d='M22.539%208.242H1.46V5.406h21.08v2.836zM1.46%2010.812V24L12%2018.11%2022.54%2024V10.812H1.46zM22.54%200H1.46v2.836h21.08V0z'/%3e%3c/svg%3e";export{t as default};

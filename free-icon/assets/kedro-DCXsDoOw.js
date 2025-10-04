@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eKedro%3c/title%3e%3cpath%20d='m12%200%2012%2012-12%2012L0%2012%2012%200z'/%3e%3c/svg%3e";export{e as default};

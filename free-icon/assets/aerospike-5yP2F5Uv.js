@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eAerospike%3c/title%3e%3cpath%20d='M14.347%2015.375%207.45%2012.283l6.897-3.072v6.164zM24%200v24H0V0h24zm-4.705%205.386L5.672%2011.548l-1.607.743%201.607.688%2013.623%206.163v-1.565l-3.576-1.602V8.612l3.576-1.586v-1.64z'/%3e%3c/svg%3e";export{e as default};

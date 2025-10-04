@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eNEXON%3c/title%3e%3cpath%20d='M10.714%2015.358V0L0%205.697v15.358L13.29%2024%2024%2018.303zm-9.495-1.219%207.291%201.568-7.291%203.832zm11.895%208.578L2.35%2020.327l7.454-3.926%2010.846%202.406z'/%3e%3c/svg%3e";export{e as default};

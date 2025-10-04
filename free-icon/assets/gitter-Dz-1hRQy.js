@@ -1,0 +1,1 @@
+const t="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eGitter%3c/title%3e%3cpath%20d='M8.501%204.001H10.5V24H8.501V4.001zm6.999%200V24h-2V4.001h2zM3.5%200h2.001v15H3.5V0zm15%204.001h2V15h-2V4.001z'/%3e%3c/svg%3e";export{t as default};

@@ -1,0 +1,1 @@
+const t="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eBandsintown%3c/title%3e%3cpath%20d='M6.399%2012.8v4.8H19.2v1.6H4.799V0H0v24h24V12.8H6.399Zm4.801-8H6.399v6.4H11.2V4.8Zm6.4%200h-4.8v6.4h4.8V4.8ZM24%200h-4.8v11.2H24V0Z'/%3e%3c/svg%3e";export{t as default};

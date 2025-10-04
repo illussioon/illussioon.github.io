@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eTresorit%3c/title%3e%3cpath%20d='M12%200%201.636%206v12L12%2024l10.364-6V6zM3.818%207.258%2012%202.521l3.574%202.069-11.756%206.753zm16.364%209.484L12%2021.48%203.82%2016.742V13.86l13.938-8.006%202.425%201.404z'/%3e%3c/svg%3e";export{e as default};

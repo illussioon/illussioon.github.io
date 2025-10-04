@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eReverbNation%3c/title%3e%3cpath%20d='M24%209.324l-9.143-.03L11.971.57%209.143%209.294%200%209.324h.031l7.367%205.355-2.855%208.749h.029l7.459-5.386%207.396%205.386-2.855-8.73L24%209.315'/%3e%3c/svg%3e";export{e as default};

@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eAdidas%3c/title%3e%3cpath%20d='m24%2019.535-8.697-15.07-4.659%202.687%207.145%2012.383Zm-8.287%200L9.969%209.59%205.31%2012.277l4.192%207.258ZM4.658%2014.723l2.776%204.812H1.223L0%2017.41Z'/%3e%3c/svg%3e";export{e as default};

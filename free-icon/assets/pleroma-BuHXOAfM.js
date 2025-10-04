@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3ePleroma%3c/title%3e%3cpath%20d='M6.36%200A1.868%201.868%200%20004.49%201.868V24h5.964V0zm7.113%200v12h4.168a1.868%201.868%200%20001.868-1.868V0zm0%2018.036V24h4.168a1.868%201.868%200%20001.868-1.868v-4.096Z'/%3e%3c/svg%3e";export{e as default};

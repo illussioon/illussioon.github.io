@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eBurp%20Suite%3c/title%3e%3cpath%20d='M0%200v24h24V0Zm11.063%203.357h1.874v2.756L10.41%209.2h2.527v3.748h4.579l-4.578%205.592v2.104h-1.876v-2.758l2.528-3.086h-2.527V11.05h-4.58l4.58-5.592Z'/%3e%3c/svg%3e";export{e as default};

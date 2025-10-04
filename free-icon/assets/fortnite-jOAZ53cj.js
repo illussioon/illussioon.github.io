@@ -1,0 +1,1 @@
+const t="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eFortnite%3c/title%3e%3cpath%20d='m15.767%2014.171.097-5.05H12.4V5.197h3.99L16.872%200H7.128v24l5.271-.985V14.17z'/%3e%3c/svg%3e";export{t as default};

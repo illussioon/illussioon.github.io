@@ -1,0 +1,1 @@
+const t="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eBetter%20Auth%3c/title%3e%3cpath%20d='M0%203.39v17.22h5.783V15.06h6.434V8.939H5.783V3.39ZM12.217%208.94h5.638v6.122h-5.638v5.548H24V3.391H12.217Z'/%3e%3c/svg%3e";export{t as default};

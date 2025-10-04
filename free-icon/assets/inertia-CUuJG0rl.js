@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eInertia%3c/title%3e%3cpath%20d='M6.901%205.331H0L6.669%2012%200%2018.669h6.901L13.571%2012%206.9%205.331zm10.43%200H10.43L17.099%2012l-6.67%206.669h6.902L24%2012l-6.669-6.669z'/%3e%3c/svg%3e";export{e as default};

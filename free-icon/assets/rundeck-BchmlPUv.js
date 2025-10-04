@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eRundeck%3c/title%3e%3cpath%20d='M19.35%204.8%2016.325%200H.115L3.14%204.8h16.21zM.115%2024h16.21l3.025-4.8H3.14L.115%2024zM6.163%209.6h16.21l1.512%202.4-1.512%202.4H6.163L7.675%2012%206.163%209.6z'/%3e%3c/svg%3e";export{e as default};

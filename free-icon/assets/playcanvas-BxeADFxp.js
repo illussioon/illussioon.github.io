@@ -1,0 +1,1 @@
+const a="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3ePlayCanvas%3c/title%3e%3cpath%20d='M6.115%200l-.002%203.414%205.823%203.41-5.82%203.414-.003%203.412%2011.774-6.826zm11.77%2010.35L6.113%2017.174%2017.887%2024l-.002-3.414-5.82-3.412%205.822-3.412z'/%3e%3c/svg%3e";export{a as default};

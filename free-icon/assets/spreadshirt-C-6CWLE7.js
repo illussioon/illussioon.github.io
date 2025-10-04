@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eSpreadshirt%3c/title%3e%3cpath%20d='M12%206.306L7.796%202.102%200%209.898l12%2012%2012-12-7.796-7.796zm0%2012L3.592%209.898l4.204-4.204L12%209.898l4.184-4.184%204.204%204.204'/%3e%3c/svg%3e";export{e as default};

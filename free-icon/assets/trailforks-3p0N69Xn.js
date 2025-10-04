@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eTrailforks%3c/title%3e%3cpath%20d='M12%201.608%200%2022.392h24zm-1.292%205.698h2.584v5.885l2.664%201.917v5.587h-2.204V16.05L12%2014.788l-1.752%201.262v4.645H8.044v-5.587l2.664-1.917z'/%3e%3c/svg%3e";export{e as default};

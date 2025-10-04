@@ -1,0 +1,1 @@
+const t="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eFlutter%3c/title%3e%3cpath%20d='M14.314%200L2.3%2012%206%2015.7%2021.684.013h-7.357zm.014%2011.072L7.857%2017.53l6.47%206.47H21.7l-6.46-6.468%206.46-6.46h-7.37z'/%3e%3c/svg%3e";export{t as default};

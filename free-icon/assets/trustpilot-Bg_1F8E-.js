@@ -1,0 +1,1 @@
+const t="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eTrustpilot%3c/title%3e%3cpath%20d='M17.227%2016.67l2.19%206.742-7.413-5.388%205.223-1.354zM24%209.31h-9.165L12.005.589l-2.84%208.723L0%209.3l7.422%205.397-2.84%208.714%207.422-5.388%204.583-3.326L24%209.311z'/%3e%3c/svg%3e";export{t as default};

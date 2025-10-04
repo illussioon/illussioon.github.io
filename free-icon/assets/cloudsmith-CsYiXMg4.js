@@ -1,0 +1,1 @@
+const t="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eCloudsmith%3c/title%3e%3cpath%20d='M24%2010.667v2.667L13.333%2024h-2.666L0%2013.334v-2.667L10.667%200h2.666L24%2010.667Zm-12%206.869a5.535%205.535%200%201%200%200-11.07%205.535%205.535%200%200%200%200%2011.07Z'/%3e%3c/svg%3e";export{t as default};

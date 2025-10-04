@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eAir%20France%3c/title%3e%3cpath%20d='M13.776%203.9L5.184%2016.332C4.051%2017.969%202.208%2019.548%200%2019.721v.379h9.552c2.544%200%204.397-1.656%205.616-3.48L24%203.9Z'/%3e%3c/svg%3e";export{e as default};

@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eNebula%3c/title%3e%3cpath%20d='M7.417%209.307%200%2014.693h9.167L12%2023.413l2.833-8.72H24s-3.915-2.84-7.417-5.386l2.834-8.72L12%205.976C8.499%203.438%204.583.588%204.583.588z'/%3e%3c/svg%3e";export{e as default};

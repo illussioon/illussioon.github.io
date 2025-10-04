@@ -1,0 +1,1 @@
+const t="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='16'%20height='16'%20fill='currentColor'%20class='bi%20bi-strava'%20viewBox='0%200%2016%2016'%3e%3cpath%20d='M6.731%200%202%209.125h2.788L6.73%205.497l1.93%203.628h2.766zm4.694%209.125-1.372%202.756L8.66%209.125H6.547L10.053%2016l3.484-6.875z'/%3e%3c/svg%3e";export{t as default};

@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eKeras%3c/title%3e%3cpath%20d='M24%200H0v24h24V0zM8.45%205.16l.2.17v6.24l6.46-6.45h1.96l.2.4-5.14%205.1%205.47%207.94-.2.3h-1.94l-4.65-6.88-2.16%202.08v4.6l-.19.2H7l-.2-.2V5.33l.17-.17h1.48z'/%3e%3c/svg%3e";export{e as default};

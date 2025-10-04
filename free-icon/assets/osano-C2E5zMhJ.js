@@ -1,0 +1,1 @@
+const e="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eOsano%3c/title%3e%3cpath%20d='M12%206.091A5.909%205.909%200%201017.909%2012%205.91%205.91%200%200012%206.091M12%200A12%2012%200%20110%2012%2012%2012%200%200112%200z'/%3e%3c/svg%3e";export{e as default};

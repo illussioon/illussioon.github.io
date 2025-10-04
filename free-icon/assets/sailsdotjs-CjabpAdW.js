@@ -1,0 +1,1 @@
+const s="data:image/svg+xml,%3csvg%20role='img'%20viewBox='0%200%2024%2024'%20xmlns='http://www.w3.org/2000/svg'%3e%3ctitle%3eSails.js%3c/title%3e%3cpath%20d='M2.23828%2024S-6.9375%209.39844%2011.9375%200v24H2.23828M14.85938%2024V9.125s3.01171%204.91406%209.1328%2014.875h-9.1328'/%3e%3c/svg%3e";export{s as default};
