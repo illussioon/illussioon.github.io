@@ -1,0 +1,6 @@
+{
+  "emailSettings": {
+    "imap": "imap.example.com",
+    "port": 993
+  }
+}
