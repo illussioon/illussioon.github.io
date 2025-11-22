@@ -1,6 +1,6 @@
 {
   "emailSettings": {
-    "imap": "imap.example.com",
+    "imap": "mail.illussion.graphics",
     "port": 993
   }
 }
